@@ -1,0 +1,11 @@
+{
+  "API_BASE_URL": "http://localhost:5050",
+  "AUTH_ENABLED": "false",
+  "PAYER_SIM_BRAND_ICON": "data:image/jpeg;base64,...",  
+  "PAYEE_SIM_BRAND_ICON": "data:image/jpeg;base64,...",  
+  "UI_CONFIGURATION": {
+    "MOBILE_SIMULATOR": {
+      "HUB_CONSOLE_ENABLED": true
+    }
+  }
+}
