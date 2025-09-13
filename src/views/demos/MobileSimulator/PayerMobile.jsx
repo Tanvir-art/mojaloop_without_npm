@@ -296,7 +296,7 @@ class PayerMobile extends React.Component {
                         <Input.Search
                             placeholder='Phone Number'
                             loading={this.state.gettingPartyInfo}
-                            defaultValue='987654320'
+                            defaultValue='01712345678'
                             onSearch={this.handleSearch}
                         />
                     </Col>
